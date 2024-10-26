@@ -1,8 +1,6 @@
-[![MasterHead](https://www.google.com/imgres?q=codinng%20banner%20github%0D%0A&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F89e0f94dd53096c14d1f628f601e5c8b2125f003455dc2a892bf44c1e3253db7%2F68747470733a2f2f622e746f7034746f702e696f2f705f323833357930367270302e676966&imgrefurl=https%3A%2F%2Fgithub.com%2FGtajisan%2FGtajisan&docid=SFMa7AVsvxHpwM&tbnid=TH0qAZuI5rkaTM&vet=12ahUKEwifmNTXsKyJAxXTTWwGHVCyEaQQM3oECC8QAA..i&w=1600&h=480&hcb=2&ved=2ahUKEwifmNTXsKyJAxXTTWwGHVCyEaQQM3oECC8QAA)
+
 <h1 align="center">Hi 👋, I'm Syed Rahman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=coding%20animated%20gif&imgurl=https%3A%2F%2Fsounter.com%2F_next%2Fimage%3Furl%3D%252Fimages%252Fprogrammer.gif%26w%3D1920%26q%3D75&imgrefurl=https%3A%2F%2Fsounter.com%2Fjobs&docid=FX2o4Bjsn0E7MM&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwiF1qGysKyJAxVPd2wGHf9tAJQQM3oECF8QAA..i&w=800&h=600&hcb=2&ved=2ahUKEwiF1qGysKyJAxVPd2wGHf9tAJQQM3oECF8QAA")
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahman-2503&label=Profile%20views&color=0e75b6&style=flat" alt="rahman-2503" /> </p>
 
